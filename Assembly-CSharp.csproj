@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BatController.cs" />
+     <Compile Include="Assets\Scripts\BezierCurve.cs" />
      <Compile Include="Assets\Scripts\CamController.cs" />
      <None Include="Assets\vampiric_monster_bat\usage.txt" />
  <Reference Include="UnityEngine.UI">
